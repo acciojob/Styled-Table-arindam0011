@@ -1,1 +1,19 @@
 /* your code */
+
+thead{
+	background-color: lightblue;
+}
+.gray{
+	background-color:lightgray;
+}
+.name{
+	width:300px;
+}
+td{
+	width:120px;
+	border-left:lightgray;
+	border-right:lightgray;
+}
+th{
+	text-align:left;
+}
